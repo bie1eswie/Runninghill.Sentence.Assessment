@@ -1,0 +1,6 @@
+@Runninghill.Sentence.Assessment_HostAddress = http://localhost:5074
+
+GET {{Runninghill.Sentence.Assessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

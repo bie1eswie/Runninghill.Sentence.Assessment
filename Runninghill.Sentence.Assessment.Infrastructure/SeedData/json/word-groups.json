@@ -1,0 +1,48 @@
+[
+  {
+    "Id": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "WordType": 0,
+    "Description": "Noun"
+  },
+  {
+    "Id": "5d013e64-55b1-4cd7-8013-84c7b2dfb22f",
+    "WordType": 1,
+    "Description": "Verb"
+  },
+  {
+    "Id": "3e1b43b7-2bf9-4467-af9d-5943b1c77fc4",
+    "WordType": 3,
+    "Description": "Adverb"
+  },
+  {
+    "Id": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "WordType": 2,
+    "Description": "Adjective"
+  },
+  {
+    "Id": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "WordType": 4,
+    "Description": "Pronoun"
+  },
+  {
+    "Id": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "WordType": 5,
+    "Description": "Preposition"
+  },
+  {
+    "Id": "e1db24f6-16ab-4b6b-bf1b-efaf76462f10",
+    "WordType": 6,
+    "Description": "Conjunction"
+  },
+  {
+    "Id": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "WordType": 7,
+    "Description": "Determiner"
+  },
+  {
+    "Id": "5978f5f5-cd6f-43ec-8c10-ee47dfedf69c",
+    "WordType": 8,
+    "Description": "Exclamation"
+  }
+]
+
