@@ -3,13 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Moq;
 using Runninghill.Sentence.Assessment.Infrastructure.Data;
 using Runninghill.Sentence.Assessment.Infrastructure.SeedData;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Diagnostics.Metrics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace Runninghill.Common.Tests.Common
 {
@@ -25,16 +19,19 @@ namespace Runninghill.Common.Tests.Common
             _mocker = new AutoMoqer(new Config { MockBehavior = MockBehavior.Loose });
             serviceCollection.AddDbContext<RunninghillSentenceAssessmentContext>(c =>
             {
+                c.UseInMemoryDatabase(databaseName: "db");
                 c.EnableSensitiveDataLogging();
             });
 
             var serviceProvider = serviceCollection.BuildServiceProvider();
 
             _runninghillSentenceAssessmentContext = serviceProvider.GetRequiredService<RunninghillSentenceAssessmentContext>();
+            SetUpDatabase();
         }
         [TearDown]
         public void TearDown()
         {
+            _runninghillSentenceAssessmentContext.Database.EnsureDeleted();
             _runninghillSentenceAssessmentContext.Dispose();
         }
 
@@ -42,10 +39,10 @@ namespace Runninghill.Common.Tests.Common
         {
             var words = WordItemData.ListWordItem;
             var wordGroups = WordGroupData.ListWordGroup;
-            var userSentences = UserSentenceData.ListUserSentence;
+            //var userSentences = UserSentenceData.ListUserSentence;
             _runninghillSentenceAssessmentContext.AddRange(words);
             _runninghillSentenceAssessmentContext.AddRange(wordGroups);
-            _runninghillSentenceAssessmentContext.AddRange(userSentences);
+            //_runninghillSentenceAssessmentContext.AddRange(userSentences);
             _runninghillSentenceAssessmentContext.SaveChanges();
             _mocker.SetInstance(_runninghillSentenceAssessmentContext);
         }

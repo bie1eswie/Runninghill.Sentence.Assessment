@@ -1,3 +1,686 @@
-{
-
-}
+[
+  {
+    "Word": "apple",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "155ac26a-890d-433f-a513-2578fd448428"
+  },
+  {
+    "Word": "apple",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "b8e785d7-d52f-4437-a661-17d9d20bd9ed"
+  },
+  {
+    "Word": "dog",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "76cd5bb9-ead0-4b19-8a53-b23c1278d9be"
+  },
+  {
+    "Word": "cat",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "acba191c-72d3-4649-9748-fcdb4e438060"
+  },
+  {
+    "Word": "house",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "909cca81-4647-479b-81be-e639144c02fe"
+  },
+  {
+    "Word": "car",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "5866cb98-d86d-4ad7-bbea-8f11a5696b5f"
+  },
+  {
+    "Word": "computer",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "fd3864d6-acbf-4aa2-b03e-8aca0d16e45b"
+  },
+  {
+    "Word": "book",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "92de561a-5bcb-45b7-a47a-20c88b9e6b3f"
+  },
+  {
+    "Word": "pen",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "de236078-bb85-4a4b-b644-1fd7d951fddc"
+  },
+  {
+    "Word": "tree",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "659e0861-b89a-46cf-b072-2875b86980a5"
+  },
+  {
+    "Word": "chair",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "6095593e-2307-409e-a7b2-62cfb4f67818"
+  },
+  {
+    "Word": "table",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "d9a55cd0-3ab7-499b-888d-2b1add5a2349"
+  },
+  {
+    "Word": "phone",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "bfb78de3-04e7-4239-b127-a112778efb6d"
+  },
+  {
+    "Word": "ball",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "d431c78d-8413-4833-afb3-6051fd41c66a"
+  },
+  {
+    "Word": "flower",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "cc968aa1-aa48-417d-b591-90a75ed57003"
+  },
+  {
+    "Word": "river",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "33e7506c-5966-476c-bbe8-f4c421930de9"
+  },
+  {
+    "Word": "mountain",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "6d27585d-1fa9-42c5-886f-2135e82897cb"
+  },
+  {
+    "Word": "sun",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "df5a1d8e-79b8-4fb2-b838-7fda337ab622"
+  },
+  {
+    "Word": "moon",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "c7b9ed52-175f-4476-89de-7836fd0a149e"
+  },
+  {
+    "Word": "star",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "c46c2ad9-9486-4eda-a0c8-c9b595aa79d7"
+  },
+  {
+    "Word": "cloud",
+    "WordType": 0,
+    "WordGroupId": "54eb3b59-8be6-4539-a5c4-d8d58e2a15d3",
+    "Id": "d9f328ee-e7c8-42b8-890e-bf2240a9b97a"
+  },
+  {
+    "Word": "run",
+    "WordType": 1,
+    "WordGroupId": "5d013e64-55b1-4cd7-8013-84c7b2dfb22f",
+    "Id": "a62bd427-08ab-4201-9cdb-654861b2a4a7"
+  },
+  {
+    "Word": "walk",
+    "WordType": 1,
+    "WordGroupId": "5d013e64-55b1-4cd7-8013-84c7b2dfb22f",
+    "Id": "c0327130-d3ef-43e5-88a1-eea6f60bae9e"
+  },
+  {
+    "Word": "jump",
+    "WordType": 1,
+    "WordGroupId": "5d013e64-55b1-4cd7-8013-84c7b2dfb22f",
+    "Id": "41032a14-340a-45e2-857f-8c58e0809d87"
+  },
+  {
+    "Word": "eat",
+    "WordType": 1,
+    "WordGroupId": "5d013e64-55b1-4cd7-8013-84c7b2dfb22f",
+    "Id": "7aefb669-a1fd-43b3-9a05-6ce9c834a6c3"
+  },
+  {
+    "Word": "sleep",
+    "WordType": 1,
+    "WordGroupId": "5d013e64-55b1-4cd7-8013-84c7b2dfb22f",
+    "Id": "73a6992e-7c7c-4827-807d-95901df73a4a"
+  },
+  {
+    "Word": "dance",
+    "WordType": 1,
+    "WordGroupId": "5d013e64-55b1-4cd7-8013-84c7b2dfb22f",
+    "Id": "9ad67f4c-19c3-4c70-9b64-027f59444402"
+  },
+  {
+    "Word": "sing",
+    "WordType": 1,
+    "WordGroupId": "5d013e64-55b1-4cd7-8013-84c7b2dfb22f",
+    "Id": "34a3ae35-3e53-41f3-a28f-d4b4abdc8ea2"
+  },
+  {
+    "Word": "write",
+    "WordType": 1,
+    "WordGroupId": "5d013e64-55b1-4cd7-8013-84c7b2dfb22f",
+    "Id": "44c9b503-a2e0-4364-9c66-c8ff249ff993"
+  },
+  {
+    "Word": "quickly",
+    "WordType": 3,
+    "WordGroupId": "3e1b43b7-2bf9-4467-af9d-5943b1c77fc4",
+    "Id": "bcdba8a8-2a45-4e8e-8766-016ab9e7be43"
+  },
+  {
+    "Word": "slowly",
+    "WordType": 3,
+    "WordGroupId": "3e1b43b7-2bf9-4467-af9d-5943b1c77fc4",
+    "Id": "bd818562-9950-455f-82ee-75f576567af5"
+  },
+  {
+    "Word": "happily",
+    "WordType": 3,
+    "WordGroupId": "3e1b43b7-2bf9-4467-af9d-5943b1c77fc4",
+    "Id": "7ee92973-fc28-4f1e-8d88-e4ee9d387833"
+  },
+  {
+    "Word": "sadly",
+    "WordType": 3,
+    "WordGroupId": "3e1b43b7-2bf9-4467-af9d-5943b1c77fc4",
+    "Id": "b6a37e18-6bf0-48de-b871-24a24c06a771"
+  },
+  {
+    "Word": "loudly",
+    "WordType": 3,
+    "WordGroupId": "3e1b43b7-2bf9-4467-af9d-5943b1c77fc4",
+    "Id": "57a2c598-4cf9-41b4-8e87-00927bc2cb4c"
+  },
+  {
+    "Word": "quietly",
+    "WordType": 3,
+    "WordGroupId": "3e1b43b7-2bf9-4467-af9d-5943b1c77fc4",
+    "Id": "4830147f-0597-461a-ab0d-e36b2a350fc1"
+  },
+  {
+    "Word": "big",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "b05fb9f4-f1a9-4277-bf9e-cbd42b151084"
+  },
+  {
+    "Word": "small",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "36b29b86-4df0-4b6b-8f23-1b730b28d9a1"
+  },
+  {
+    "Word": "happy",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "63dcd7d4-7973-4eb6-86e0-ada3f7cdb6bb"
+  },
+  {
+    "Word": "sad",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "d1a4d196-0e76-41a7-ab38-283806276e9e"
+  },
+  {
+    "Word": "fast",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "06dda671-1d61-41be-a745-648940344a27"
+  },
+  {
+    "Word": "slow",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "c04e7f13-6774-46fb-b157-e27eaccc4757"
+  },
+  {
+    "Word": "beautiful",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "6178e037-b00d-4cc2-9e6f-495d13172663"
+  },
+  {
+    "Word": "ugly",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "1988271f-6c07-4ff5-b91d-9b292d1510e6"
+  },
+  {
+    "Word": "smart",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "422b7d3f-5a85-4e1c-ae95-173927d0e1a3"
+  },
+  {
+    "Word": "dumb",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "044fb3ed-52b0-4533-85a3-d32de6415ce9"
+  },
+  {
+    "Word": "tall",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "bc5be844-0382-45f1-a6f0-ee83c3b3a2f0"
+  },
+  {
+    "Word": "short",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "3a5f8fdf-ba40-4296-a44b-ffb2215cd4d2"
+  },
+  {
+    "Word": "bright",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "d38af80d-f914-4c18-ad87-3358289ddf53"
+  },
+  {
+    "Word": "dark",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "731068c4-a41f-411b-abbb-adedd8e3626f"
+  },
+  {
+    "Word": "clean",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "7d4bc095-eb55-4302-ad07-565a3fe06381"
+  },
+  {
+    "Word": "dirty",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "56d615cd-8bbd-4c15-ac0f-59e75836ef13"
+  },
+  {
+    "Word": "brave",
+    "WordType": 2,
+    "WordGroupId": "6fa682d1-2c5e-47d4-9d90-47d25205a5b1",
+    "Id": "748ec0d7-2821-4bb7-86e3-2ccf3a73fcae"
+  },
+  {
+    "Word": "I",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "c2d98f14-c53a-4831-93a1-5bb0e84448a6"
+  },
+  {
+    "Word": "you",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "bc19da42-b652-4bcb-b1de-19e537b6711a"
+  },
+  {
+    "Word": "he",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "409e86c5-137a-4ebe-9ad3-df11763194ae"
+  },
+  {
+    "Word": "she",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "dc96c5d0-54ac-4f28-ba4d-d6e621f3f73b"
+  },
+  {
+    "Word": "it",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "cc6de0b3-c3d7-498e-962c-6a9cd0aa4bae"
+  },
+  {
+    "Word": "we",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "37f9b8f9-1dd0-4a3d-ba27-0249ed5c38da"
+  },
+  {
+    "Word": "they",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "3ee60721-e66e-4c87-9d73-8c1d0a51eac1"
+  },
+  {
+    "Word": "me",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "dc3b8e6e-d36b-4f71-8328-3c2d5ac739ca"
+  },
+  {
+    "Word": "him",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "34720ffb-9932-460f-8013-e97f53a7a175"
+  },
+  {
+    "Word": "her",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "f5325399-21b8-4263-9568-5ea717886f08"
+  },
+  {
+    "Word": "us",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "b7bfa699-6d0b-4805-821b-ee0dfe0141f9"
+  },
+  {
+    "Word": "them",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "8a5b42f5-2061-4e74-b955-505db4f10ed5"
+  },
+  {
+    "Word": "myself",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "3b2f95e1-a9dd-4d21-b9f9-98d299b69da4"
+  },
+  {
+    "Word": "yourself",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "53484adc-5c32-4f0f-9f0d-78692c7899c7"
+  },
+  {
+    "Word": "himself",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "ad4ba513-62ba-4f6e-8888-2d3153130825"
+  },
+  {
+    "Word": "herself",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "9f1c7bea-4ebb-4078-a09f-937e7b8335a4"
+  },
+  {
+    "Word": "itself",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "cdfa8516-7246-414d-823d-7a570ed404d8"
+  },
+  {
+    "Word": "ourselves",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "a25a0ff0-929d-403b-8870-d4e82ced49b6"
+  },
+  {
+    "Word": "themselves",
+    "WordType": 4,
+    "WordGroupId": "c3b7858b-769f-437e-bc32-b9496e185c2a",
+    "Id": "276b63b1-e6c3-4858-a460-304680620999"
+  },
+  {
+    "Word": "about",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "09357f9a-fae5-42c7-8884-237137dbba5c"
+  },
+  {
+    "Word": "above",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "b9e7bde5-0b77-4b7f-98c7-69684c128ce1"
+  },
+  {
+    "Word": "across",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "f1dd6460-3911-4e0f-9071-8c4cf9700dda"
+  },
+  {
+    "Word": "after",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "3c302cc9-b219-4782-812c-0e9a88ea20da"
+  },
+  {
+    "Word": "against",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "3c7b9722-9623-453c-812b-a9490850bcba"
+  },
+  {
+    "Word": "along",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "8b7b0fcb-148b-4f97-8bfa-7560adb32e68"
+  },
+  {
+    "Word": "amid",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "5aedf048-fb44-4996-a577-c88f988f8710"
+  },
+  {
+    "Word": "among",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "defdc9b5-b42c-49d5-8b27-a5e3cbed0a5f"
+  },
+  {
+    "Word": "around",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "e919f594-1d57-4467-a8c8-64b37b7d2c13"
+  },
+  {
+    "Word": "as",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "576b4373-328f-4edd-932b-5f1e4a816519"
+  },
+  {
+    "Word": "at",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "29e3c676-047c-4fa3-a6a0-56a37b2400b8"
+  },
+  {
+    "Word": "before",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "46b9f9c5-524e-4459-8e44-7f0460f1ddfd"
+  },
+  {
+    "Word": "behind",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "75964fc5-1123-4c27-afd8-24e34bf5d2b6"
+  },
+  {
+    "Word": "below",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "00ef93ca-04e2-4f8c-a136-c22b2b5ee69f"
+  },
+  {
+    "Word": "beneath",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "7f762d35-0cc6-4965-904a-a93ec20759bf"
+  },
+  {
+    "Word": "beside",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "75b3fc67-f52d-4d7e-9009-6fc79309f1f3"
+  },
+  {
+    "Word": "between",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "01f70610-3f7f-4744-8674-773e3547e28a"
+  },
+  {
+    "Word": "beyond",
+    "WordType": 5,
+    "WordGroupId": "96a6ff9c-ebdf-4721-86c0-d3c82d89aa8d",
+    "Id": "9cf55189-66cc-4ee7-9ea6-595bec7ec08f"
+  },
+  {
+    "Word": "and",
+    "WordType": 6,
+    "WordGroupId": "e1db24f6-16ab-4b6b-bf1b-efaf76462f10",
+    "Id": "9b31b0fa-3907-4d84-abb5-5de6a572b09d"
+  },
+  {
+    "Word": "but",
+    "WordType": 6,
+    "WordGroupId": "e1db24f6-16ab-4b6b-bf1b-efaf76462f10",
+    "Id": "4f47c4ee-6b0a-42b4-b1cf-3ebb6597feba"
+  },
+  {
+    "Word": "or",
+    "WordType": 6,
+    "WordGroupId": "e1db24f6-16ab-4b6b-bf1b-efaf76462f10",
+    "Id": "4deb5125-3b5f-4e41-9258-94811e834eb6"
+  },
+  {
+    "Word": "nor",
+    "WordType": 6,
+    "WordGroupId": "e1db24f6-16ab-4b6b-bf1b-efaf76462f10",
+    "Id": "9e692dde-05e2-4e25-9fbe-6623470b027a"
+  },
+  {
+    "Word": "for",
+    "WordType": 6,
+    "WordGroupId": "e1db24f6-16ab-4b6b-bf1b-efaf76462f10",
+    "Id": "37b96e5c-727d-4b89-873a-a300c71ff39d"
+  },
+  {
+    "Word": "yet",
+    "WordType": 6,
+    "WordGroupId": "e1db24f6-16ab-4b6b-bf1b-efaf76462f10",
+    "Id": "2735b0ae-046d-4bd5-a66c-1ef4c3721c03"
+  },
+  {
+    "Word": "so",
+    "WordType": 6,
+    "WordGroupId": "e1db24f6-16ab-4b6b-bf1b-efaf76462f10",
+    "Id": "71100671-3237-4590-96df-5e17ef099f40"
+  },
+  {
+    "Word": "the",
+    "WordType": 7,
+    "WordGroupId": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "Id": "7e606335-7f03-4525-8e49-04ca0ee1ce87"
+  },
+  {
+    "Word": "a",
+    "WordType": 7,
+    "WordGroupId": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "Id": "ec1df854-0248-4098-9bc8-ed6d3ec580ae"
+  },
+  {
+    "Word": "an",
+    "WordType": 7,
+    "WordGroupId": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "Id": "d7b98d0e-3471-4b1f-ba0a-44218dd7ea6a"
+  },
+  {
+    "Word": "this",
+    "WordType": 7,
+    "WordGroupId": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "Id": "70d15537-a2dc-48c9-89a3-d61482f4fbee"
+  },
+  {
+    "Word": "that",
+    "WordType": 7,
+    "WordGroupId": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "Id": "3249abb3-1b74-4bb5-b48f-11dc68869c5c"
+  },
+  {
+    "Word": "these",
+    "WordType": 7,
+    "WordGroupId": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "Id": "bb893c81-d05a-416b-ba74-bf4bd020773a"
+  },
+  {
+    "Word": "those",
+    "WordType": 7,
+    "WordGroupId": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "Id": "4edb7a97-cab1-4555-b314-4ee6cf280831"
+  },
+  {
+    "Word": "my",
+    "WordType": 7,
+    "WordGroupId": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "Id": "a7a21e47-a97b-4e6b-b398-68dfb4ab67e0"
+  },
+  {
+    "Word": "your",
+    "WordType": 7,
+    "WordGroupId": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "Id": "a22e6128-cd76-4f56-b2c5-070c0b13b7bb"
+  },
+  {
+    "Word": "his",
+    "WordType": 7,
+    "WordGroupId": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "Id": "8ab300c0-9725-455d-8918-4251720a6399"
+  },
+  {
+    "Word": "her",
+    "WordType": 7,
+    "WordGroupId": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "Id": "68f2a03e-b9ee-4a0d-b0c6-1008fba46e3f"
+  },
+  {
+    "Word": "its",
+    "WordType": 7,
+    "WordGroupId": "47d5c10b-8c5f-4f12-8b4b-18f2d8e14a84",
+    "Id": "40124673-8695-404d-a94c-1cf872c9fbe3"
+  },
+  {
+    "Word": "wow",
+    "WordType": 8,
+    "WordGroupId": "5978f5f5-cd6f-43ec-8c10-ee47dfedf69c",
+    "Id": "a38e0bd8-2eb9-4c09-b9f3-aa1d918d18d2"
+  },
+  {
+    "Word": "ouch",
+    "WordType": 8,
+    "WordGroupId": "5978f5f5-cd6f-43ec-8c10-ee47dfedf69c",
+    "Id": "385fb4fc-b5ae-413e-b1e9-68a3263f94f3"
+  },
+  {
+    "Word": "oh",
+    "WordType": 8,
+    "WordGroupId": "5978f5f5-cd6f-43ec-8c10-ee47dfedf69c",
+    "Id": "47edcae5-8823-41c9-aa95-8f21eb174685"
+  },
+  {
+    "Word": "ah",
+    "WordType": 8,
+    "WordGroupId": "5978f5f5-cd6f-43ec-8c10-ee47dfedf69c",
+    "Id": "aeeddf21-bb36-4439-964a-08564535eea4"
+  },
+  {
+    "Word": "oops",
+    "WordType": 8,
+    "WordGroupId": "5978f5f5-cd6f-43ec-8c10-ee47dfedf69c",
+    "Id": "729933d9-589f-44ee-8333-f6ac82b932e3"
+  },
+  {
+    "Word": "hurray",
+    "WordType": 8,
+    "WordGroupId": "5978f5f5-cd6f-43ec-8c10-ee47dfedf69c",
+    "Id": "8c1821e5-aefa-4bd0-ada2-7e67098c5415"
+  }
+]

@@ -8,6 +8,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Runninghill.Sentence.Assessment.Application.Models.WordGroupDTO;
+using static Runninghill.Sentence.Assessment.Application.Models.WordItemDTO;
 
 namespace Runninghill.Sentence.Assessment.Application
 {
@@ -18,6 +20,9 @@ namespace Runninghill.Sentence.Assessment.Application
             services.AddScoped<IWordItemService, WordItemService>();
             services.AddScoped<ISentenceService, SentenceService>();
             services.AddOptions<ConfigurationOptions>();
+
+            services.AddAutoMapper(typeof(WordItemProfile));
+            services.AddAutoMapper(typeof(WordGroupProfile));
             return services;
         }
     }

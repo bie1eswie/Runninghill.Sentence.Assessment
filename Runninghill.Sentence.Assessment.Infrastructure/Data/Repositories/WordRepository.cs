@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using Runninghill.Sentence.Assessment.Domain.Entities;
 using Runninghill.Sentence.Assessment.Domain.Enums;
 using Runninghill.Sentence.Assessment.Domain.Interface.Repositories;
