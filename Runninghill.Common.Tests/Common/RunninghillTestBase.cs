@@ -31,7 +31,7 @@ namespace Runninghill.Common.Tests.Common
         [TearDown]
         public void TearDown()
         {
-            _runninghillSentenceAssessmentContext.Database.EnsureDeleted();
+            //_runninghillSentenceAssessmentContext.Database.EnsureDeleted();
             _runninghillSentenceAssessmentContext.Dispose();
         }
 
