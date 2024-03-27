@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Runninghill.Sentence.Assessment.Infrastructure.Data;
 
@@ -11,9 +12,11 @@ using Runninghill.Sentence.Assessment.Infrastructure.Data;
 namespace Runninghill.Sentence.Assessment.Infrastructure.Migrations
 {
     [DbContext(typeof(RunninghillSentenceAssessmentContext))]
-    partial class RunninghillSentenceAssessmentContextModelSnapshot : ModelSnapshot
+    [Migration("20240327032226_add_Created_On_column")]
+    partial class add_Created_On_column
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

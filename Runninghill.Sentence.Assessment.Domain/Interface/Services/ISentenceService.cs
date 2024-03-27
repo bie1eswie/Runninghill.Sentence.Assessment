@@ -11,6 +11,6 @@ namespace Runninghill.Sentence.Assessment.Domain.Interface.Services
     public interface ISentenceService
     {
         Task<PaginatedList<UserSentence>> GetPaginatedListUserSentence(int pageNumber);
-        Task<bool> CreateUserSentence(UserSentence userSentence);
+        Task<bool> CreateUserSentence(UserSentenceDTO userSentence);
     }
 }

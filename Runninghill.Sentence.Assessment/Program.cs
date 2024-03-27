@@ -11,7 +11,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddInfrastructureServices(builder.Configuration);
-builder.Services.AddApplicationServices();
+builder.Services.AddApplicationServices(builder.Configuration);
+builder.Services.AddApiServices(builder.Configuration);
 builder.Services.AddLogging(loggerConfig =>
 {
     loggerConfig.AddConsole();
@@ -30,7 +31,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
+app.UseCors("AllowFrontend");
 app.MapControllers();
 app.ApplyDatabaseMigrations(builder.Configuration);
 app.Run();

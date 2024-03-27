@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Runninghill.Sentence.Assessment.Application.Models;
 using Runninghill.Sentence.Assessment.Domain.Entities;
 using Runninghill.Sentence.Assessment.Domain.Interface.Services;
+using Runninghill.Sentence.Assessment.Domain.Models;
 using Runninghill.Sentence.Assessment.Infrastructure;
 
 namespace Runninghill.Sentence.Assessment.Controllers
@@ -26,7 +27,7 @@ namespace Runninghill.Sentence.Assessment.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Post(UserSentence userSentence)
+        public async Task<IActionResult> Post(UserSentenceDTO userSentence)
         {
             try
             {

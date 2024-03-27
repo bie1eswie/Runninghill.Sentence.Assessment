@@ -15,6 +15,7 @@ namespace Runninghill.Sentence.Assessment.Infrastructure
         {
             services.AddScoped<IWordRepository, WordRepository>();
             services.AddScoped<IUserSentenceRepository, UserSentenceRepository>();
+            services.AddScoped<IWordGroupRepository, WordGroupRepository>();
             //add data context
             string? connectionString = config.GetConnectionString(Constants.DEFAULT_CONNECTION_STRING);
             services.AddDbContext<RunninghillSentenceAssessmentContext>(options =>

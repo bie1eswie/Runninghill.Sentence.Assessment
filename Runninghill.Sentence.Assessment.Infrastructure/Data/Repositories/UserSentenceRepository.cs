@@ -9,6 +9,8 @@ namespace Runninghill.Sentence.Assessment.Infrastructure.Data.Repositories
     {
         public async Task<bool> CreateUserSentence(UserSentence userSentence)
         {
+            userSentence.Id = Guid.NewGuid();
+            userSentence.CreatedOn = DateTime.Now;
             _runninghillSentenceAssessmentContext.Sentences.Add(userSentence);
             return await _runninghillSentenceAssessmentContext.SaveChangesAsync() > 0;
         }

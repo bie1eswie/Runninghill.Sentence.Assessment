@@ -4,7 +4,7 @@ using Runninghill.Sentence.Assessment.Infrastructure.Data;
 
 namespace Runninghill.Sentence.Assessment.Infrastructure
 {
-    public  static class DependencyInjection
+    public static class DependencyInjection
     {
         public static void ApplyDatabaseMigrations(this WebApplication app, IConfiguration configuration)
         {
@@ -57,6 +57,18 @@ namespace Runninghill.Sentence.Assessment.Infrastructure
             }
 
             logger.LogInformation($"Migrations {typeof(T).Name} Completed");
+        }
+
+        public static IServiceCollection AddApiServices(this IServiceCollection services, IConfiguration configuration)
+        {
+            services.AddCors(options =>
+            {
+                var allowedHosts = configuration["AllowedHosts"]!;
+                string[] methods = { "GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS" };
+                options.AddPolicy("AllowFrontend", builder => builder.WithOrigins(allowedHosts).AllowAnyHeader().WithMethods(methods));
+            });
+
+            return services;
         }
     }
 }
