@@ -37,7 +37,7 @@ namespace Runninghill.Sentence.Assessment.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(exception: ex, ex.Message);
-                return BadRequest(new APIResponse(400, "Problem getting created sentences"));
+                return BadRequest(new APIResponse(400, "Problem creating sentence"));
             }
         }
     }
